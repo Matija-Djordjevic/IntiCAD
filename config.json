@@ -1,0 +1,42 @@
+{
+  "Language" : "sr",
+  "ToolBar" : {
+    "items" : [ ]
+  },
+  "Settings" : {
+    "useUndoRedoTree" : false,
+    "logging" : true
+  },
+  "SavePath" : null,
+  "MenuBar" : {
+    "file" : {
+      "de" : "Datei",
+      "en" : "File",
+      "fr" : "Fichier",
+      "sr" : "Fajl"
+    },
+    "edit" : {
+      "de" : "Bearbeiten",
+      "en" : "Edit",
+      "fr" : "Modifier",
+      "sr" : "Uredi"
+    },
+    "view" : {
+      "de" : "Ansicht",
+      "en" : "View",
+      "fr" : "Vue",
+      "sr" : "Pogled"
+    }
+  },
+  "MainFrame" : {
+    "defaultWidth" : 800,
+    "defaultHeight" : 600,
+    "theme" : "dark",
+    "title" : {
+      "de" : "Hauptfenster",
+      "en" : "Main Frame",
+      "fr" : "Fenêtre Principale",
+      "sr" : "Glavni okvir"
+    }
+  }
+}
