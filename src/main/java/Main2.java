@@ -26,27 +26,27 @@ public class Main2 {
         var pm = ApplicationFramework.getInstance().getProjectManager();
         var pe = pm.getProjectExplorer();
 
-        var p1 = new Project("p1", pe);
+        var p1 = new Project("Proj I", pe);
         pm.add(pe, p1);
 
-        var b1 = new Building("b1", p1);
+        var b1 = new Building("Building A", p1);
         pm.add(p1, b1);
-        var r1 = new Room("r1", b1);
+        var r1 = new Room("Room 1", b1);
         pm.add(b1, r1);
-        var r2 = new Room("r2", b1);
+        var r2 = new Room("Room 2", b1);
         pm.add(b1, r2);
-        var r3 = new Room("r3", b1);
+        var r3 = new Room("Room 3", b1);
         pm.add(b1, r3);
 
-        var b2 = new Building("b2", p1);
+        var b2 = new Building("Building B", p1);
         pm.add(p1, b2);
-        var r4 = new Room("r4", b2);
+        var r4 = new Room("Room 4", b2);
         pm.add(b2, r4);
-        var r5 = new Room("r5", b2);
+        var r5 = new Room("Room 5", b2);
         pm.add(b2, r5);
 
 
-        var p2 = new Project("p2", pe);
+        var p2 = new Project("Proj II", pe);
         pm.add(pe, p2);
 
         var b3 = new Building("b3", p1);

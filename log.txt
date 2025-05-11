@@ -1,0 +1,402 @@
+[OBAVESTENJE] [2025-05-11 13:29:55] Switched to add state
+[OBAVESTENJE] [2025-05-11 13:30:05] Command AddRoomElementCommand (id:edf5c37e) was created was created
+[OBAVESTENJE] [2025-05-11 13:30:05] Doing: Adding room element 'Bed (12ec1)' to room 'r2'
+[OBAVESTENJE] [2025-05-11 13:30:05] Switched to move state
+[OBAVESTENJE] [2025-05-11 13:30:06] Command MoveRoomElementsCompositeCommand (id:96bb637f) was created was created
+[OBAVESTENJE] [2025-05-11 13:30:06] Doing: Running redo commands:
+Moving room element Bed (12ec1) by (x drag: -28.000000, y drag: -9.000000)
+
+[OBAVESTENJE] [2025-05-11 13:30:07] Command MoveRoomElementsCompositeCommand (id:d1c6f0dc) was created was created
+[OBAVESTENJE] [2025-05-11 13:30:07] Doing: Running redo commands:
+Moving room element Bed (12ec1) by (x drag: -7.000000, y drag: -12.000000)
+
+[OBAVESTENJE] [2025-05-11 13:30:07] Command MoveRoomElementsCompositeCommand (id:9e044093) was created was created
+[OBAVESTENJE] [2025-05-11 13:30:07] Doing: Running redo commands:
+Moving room element Bed (12ec1) by (x drag: -12.000000, y drag: -16.000000)
+
+[OBAVESTENJE] [2025-05-11 13:30:08] Command MoveRoomElementsCompositeCommand (id:de2a7e73) was created was created
+[OBAVESTENJE] [2025-05-11 13:30:08] Doing: Running redo commands:
+Moving room element Bed (12ec1) by (x drag: -26.000000, y drag: -23.000000)
+
+[OBAVESTENJE] [2025-05-11 13:30:09] Command MoveRoomElementsCompositeCommand (id:63b7e44a) was created was created
+[OBAVESTENJE] [2025-05-11 13:30:09] Doing: Running redo commands:
+Moving room element Bed (12ec1) by (x drag: -11.000000, y drag: -18.000000)
+
+[OBAVESTENJE] [2025-05-11 13:32:58] Switched to resize state
+[OBAVESTENJE] [2025-05-11 13:33:02] Command Resize Room Element Command (id:abaa3c1e) was created was created
+[OBAVESTENJE] [2025-05-11 13:33:02] Doing: Setting size of Bed (12ec1) to w:121.000000 h:77.000000
+[OBAVESTENJE] [2025-05-11 13:38:38] Switched to select state
+[OBAVESTENJE] [2025-05-11 13:38:39] Command Remove Room Elements Composite Command (id:c47bc674) was created was created
+[OBAVESTENJE] [2025-05-11 13:38:39] Doing: Running redo commands:
+Removing room element 'Bed (12ec1)' from room 'r2'
+
+[OBAVESTENJE] [2025-05-11 13:38:40] Switched to add state
+[OBAVESTENJE] [2025-05-11 13:38:41] Switched to add state
+[OBAVESTENJE] [2025-05-11 13:38:52] Command AddRoomElementCommand (id:48f080aa) was created was created
+[OBAVESTENJE] [2025-05-11 13:38:52] Doing: Adding room element 'Bed (aec46)' to room 'r2'
+[OBAVESTENJE] [2025-05-11 13:38:52] Switched to move state
+[OBAVESTENJE] [2025-05-11 13:38:54] Command MoveRoomElementsCompositeCommand (id:a78db9a7) was created was created
+[OBAVESTENJE] [2025-05-11 13:38:54] Doing: Running redo commands:
+Moving room element Bed (aec46) by (x drag: 39.000000, y drag: 1.000000)
+
+[OBAVESTENJE] [2025-05-11 13:38:55] Switched to move state
+[OBAVESTENJE] [2025-05-11 13:38:58] Command MoveRoomElementsCompositeCommand (id:48c15685) was created was created
+[OBAVESTENJE] [2025-05-11 13:38:58] Doing: Running redo commands:
+Moving room element Bed (aec46) by (x drag: 25.000000, y drag: 2.000000)
+
+[OBAVESTENJE] [2025-05-11 13:38:59] Command MoveRoomElementsCompositeCommand (id:13e1d30e) was created was created
+[OBAVESTENJE] [2025-05-11 13:38:59] Doing: Running redo commands:
+Moving room element Bed (aec46) by (x drag: -2.000000, y drag: -20.000000)
+
+[OBAVESTENJE] [2025-05-11 13:38:59] Switched to resize state
+[OBAVESTENJE] [2025-05-11 13:39:03] Command Resize Room Element Command (id:4afd7753) was created was created
+[OBAVESTENJE] [2025-05-11 13:39:03] Doing: Setting size of Bed (aec46) to w:155.000000 h:92.000000
+[OBAVESTENJE] [2025-05-11 13:39:04] Command Rotate Room Element Command (id:d36ff562) was created was created
+[OBAVESTENJE] [2025-05-11 13:39:04] Doing: Rotating Bed (aec46) for 90.00 degrees
+[OBAVESTENJE] [2025-05-11 13:39:06] Switched to move state
+[OBAVESTENJE] [2025-05-11 13:39:07] Command MoveRoomElementsCompositeCommand (id:2ad9a315) was created was created
+[OBAVESTENJE] [2025-05-11 13:39:07] Doing: Running redo commands:
+Moving room element Bed (aec46) by (x drag: 61.000000, y drag: -41.000000)
+
+[OBAVESTENJE] [2025-05-11 13:39:08] Command MoveRoomElementsCompositeCommand (id:45d7ef31) was created was created
+[OBAVESTENJE] [2025-05-11 13:39:08] Doing: Running redo commands:
+Moving room element Bed (aec46) by (x drag: 72.000000, y drag: -63.000000)
+
+[OBAVESTENJE] [2025-05-11 13:39:09] Command MoveRoomElementsCompositeCommand (id:ca77e259) was created was created
+[OBAVESTENJE] [2025-05-11 13:39:09] Doing: Running redo commands:
+Moving room element Bed (aec46) by (x drag: 43.000000, y drag: 3.000000)
+
+[OBAVESTENJE] [2025-05-11 13:39:10] Command MoveRoomElementsCompositeCommand (id:bd9c33f1) was created was created
+[OBAVESTENJE] [2025-05-11 13:39:10] Doing: Running redo commands:
+Moving room element Bed (aec46) by (x drag: 14.000000, y drag: -39.000000)
+
+[OBAVESTENJE] [2025-05-11 13:39:11] JSON loaded/saved successfully
+[OBAVESTENJE] [2025-05-11 13:39:11] JSON loaded/saved successfully
+[OBAVESTENJE] [2025-05-11 13:40:26] JSON loaded/saved successfully
+[OBAVESTENJE] [2025-05-11 13:40:26] JSON loaded/saved successfully
+[OBAVESTENJE] [2025-05-11 13:40:36] JSON loaded/saved successfully
+[OBAVESTENJE] [2025-05-11 13:40:36] JSON loaded/saved successfully
+[OBAVESTENJE] [2025-05-11 13:41:42] JSON loaded/saved successfully
+[OBAVESTENJE] [2025-05-11 13:41:42] JSON loaded/saved successfully
+[OBAVESTENJE] [2025-05-11 13:41:54] JSON loaded/saved successfully
+[OBAVESTENJE] [2025-05-11 13:41:54] JSON loaded/saved successfully
+[OBAVESTENJE] [2025-05-11 13:42:07] JSON loaded/saved successfully
+[OBAVESTENJE] [2025-05-11 13:42:07] JSON loaded/saved successfully
+[OBAVESTENJE] [2025-05-11 13:42:44] JSON loaded/saved successfully
+[OBAVESTENJE] [2025-05-11 13:42:44] JSON loaded/saved successfully
+[OBAVESTENJE] [2025-05-11 13:43:09] Command AddRoomElementCommand (id:322d4541) was created was created
+[OBAVESTENJE] [2025-05-11 13:43:09] Doing: Adding room element 'Bed (ddbbd)' to room 'Room 1'
+[OBAVESTENJE] [2025-05-11 13:43:09] Switched to move state
+[OBAVESTENJE] [2025-05-11 13:43:19] Switched to resize state
+[OBAVESTENJE] [2025-05-11 13:43:28] Command Resize Room Element Command (id:603a8d9b) was created was created
+[OBAVESTENJE] [2025-05-11 13:43:28] Doing: Setting size of Bed (ddbbd) to w:142.000000 h:70.000000
+[OBAVESTENJE] [2025-05-11 13:43:37] Command Resize Room Element Command (id:a0eb5527) was created was created
+[OBAVESTENJE] [2025-05-11 13:43:37] Doing: Setting size of Bed (ddbbd) to w:168.000000 h:76.000000
+[OBAVESTENJE] [2025-05-11 13:43:39] Switched to select state
+[OBAVESTENJE] [2025-05-11 13:43:41] Switched to move state
+[OBAVESTENJE] [2025-05-11 13:43:41] Command MoveRoomElementsCompositeCommand (id:7691a90f) was created was created
+[OBAVESTENJE] [2025-05-11 13:43:41] Doing: Running redo commands:
+Moving room element Bed (ddbbd) by (x drag: -74.000000, y drag: 5.000000)
+
+[OBAVESTENJE] [2025-05-11 13:43:42] Command MoveRoomElementsCompositeCommand (id:b531cae9) was created was created
+[OBAVESTENJE] [2025-05-11 13:43:42] Doing: Running redo commands:
+Moving room element Bed (ddbbd) by (x drag: -74.000000, y drag: -34.000000)
+
+[OBAVESTENJE] [2025-05-11 13:43:43] Command MoveRoomElementsCompositeCommand (id:535d5875) was created was created
+[OBAVESTENJE] [2025-05-11 13:43:43] Doing: Running redo commands:
+Moving room element Bed (ddbbd) by (x drag: -35.000000, y drag: -18.000000)
+
+[OBAVESTENJE] [2025-05-11 13:43:50] Switched to select state
+[OBAVESTENJE] [2025-05-11 13:43:52] Switched to resize state
+[OBAVESTENJE] [2025-05-11 13:43:52] Command Resize Room Element Command (id:91e0c466) was created was created
+[OBAVESTENJE] [2025-05-11 13:43:52] Doing: Setting size of Bed (ddbbd) to w:168.000000 h:76.000000
+[OBAVESTENJE] [2025-05-11 13:43:56] Command Resize Room Element Command (id:030eb680) was created was created
+[OBAVESTENJE] [2025-05-11 13:43:56] Doing: Setting size of Bed (ddbbd) to w:149.000000 h:87.000000
+[OBAVESTENJE] [2025-05-11 13:43:57] Switched to add state
+[OBAVESTENJE] [2025-05-11 13:44:08] Command AddRoomElementCommand (id:5965c760) was created was created
+[OBAVESTENJE] [2025-05-11 13:44:08] Doing: Adding room element 'Door (e5f6b)' to room 'Room 1'
+[OBAVESTENJE] [2025-05-11 13:44:08] Switched to move state
+[OBAVESTENJE] [2025-05-11 13:44:10] Command MoveRoomElementsCompositeCommand (id:7f7a1379) was created was created
+[OBAVESTENJE] [2025-05-11 13:44:10] Doing: Running redo commands:
+Moving room element Door (e5f6b) by (x drag: 4.000000, y drag: -13.000000)
+
+[OBAVESTENJE] [2025-05-11 13:44:12] Command MoveRoomElementsCompositeCommand (id:fe46fb85) was created was created
+[OBAVESTENJE] [2025-05-11 13:44:12] Doing: Running redo commands:
+Moving room element Door (e5f6b) by (x drag: 7.000000, y drag: -38.000000)
+
+[OBAVESTENJE] [2025-05-11 13:44:14] Switched to resize state
+[OBAVESTENJE] [2025-05-11 13:44:18] Command Resize Room Element Command (id:63c09fa3) was created was created
+[OBAVESTENJE] [2025-05-11 13:44:18] Doing: Setting size of Door (e5f6b) to w:125.000000 h:98.000000
+[OBAVESTENJE] [2025-05-11 13:44:27] Command Remove Room Elements Composite Command (id:0c49b8b5) was created was created
+[OBAVESTENJE] [2025-05-11 13:44:27] Doing: Running redo commands:
+Removing room element 'Door (e5f6b)' from room 'Room 1'
+
+[OBAVESTENJE] [2025-05-11 13:44:29] Switched to add state
+[OBAVESTENJE] [2025-05-11 13:44:35] Command AddRoomElementCommand (id:c6091669) was created was created
+[OBAVESTENJE] [2025-05-11 13:44:35] Doing: Adding room element 'Closet (40572)' to room 'Room 1'
+[OBAVESTENJE] [2025-05-11 13:44:35] Switched to move state
+[OBAVESTENJE] [2025-05-11 13:44:36] Command MoveRoomElementsCompositeCommand (id:3f9768f9) was created was created
+[OBAVESTENJE] [2025-05-11 13:44:36] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: 19.000000, y drag: -33.000000)
+
+[OBAVESTENJE] [2025-05-11 13:44:37] Command MoveRoomElementsCompositeCommand (id:31c01f59) was created was created
+[OBAVESTENJE] [2025-05-11 13:44:37] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: -3.000000, y drag: -44.000000)
+
+[OBAVESTENJE] [2025-05-11 13:44:40] Switched to resize state
+[OBAVESTENJE] [2025-05-11 13:44:46] Command Resize Room Element Command (id:7cc168fa) was created was created
+[OBAVESTENJE] [2025-05-11 13:44:46] Doing: Setting size of Closet (40572) to w:87.000000 h:88.000000
+[OBAVESTENJE] [2025-05-11 13:44:48] Switched to move state
+[OBAVESTENJE] [2025-05-11 13:44:50] Command MoveRoomElementsCompositeCommand (id:97572617) was created was created
+[OBAVESTENJE] [2025-05-11 13:44:50] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: -90.000000, y drag: 47.000000)
+
+[OBAVESTENJE] [2025-05-11 13:44:51] Command MoveRoomElementsCompositeCommand (id:4c2ded72) was created was created
+[OBAVESTENJE] [2025-05-11 13:44:51] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: -122.000000, y drag: -7.000000)
+
+[OBAVESTENJE] [2025-05-11 13:44:53] Command MoveRoomElementsCompositeCommand (id:25866203) was created was created
+[OBAVESTENJE] [2025-05-11 13:44:53] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: -2.000000, y drag: 7.000000)
+
+[OBAVESTENJE] [2025-05-11 13:44:53] Command MoveRoomElementsCompositeCommand (id:90ea3f7c) was created was created
+[OBAVESTENJE] [2025-05-11 13:44:53] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: 0.000000, y drag: -5.000000)
+
+[OBAVESTENJE] [2025-05-11 13:44:56] Command MoveRoomElementsCompositeCommand (id:d28e81ad) was created was created
+[OBAVESTENJE] [2025-05-11 13:44:56] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: 282.000000, y drag: -104.000000)
+
+[OBAVESTENJE] [2025-05-11 13:44:57] Command MoveRoomElementsCompositeCommand (id:92fefc21) was created was created
+[OBAVESTENJE] [2025-05-11 13:44:57] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: 15.000000, y drag: -12.000000)
+
+[OBAVESTENJE] [2025-05-11 13:44:58] Command MoveRoomElementsCompositeCommand (id:88fccf7c) was created was created
+[OBAVESTENJE] [2025-05-11 13:44:58] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: 0.000000, y drag: -2.000000)
+
+[OBAVESTENJE] [2025-05-11 13:45:01] Switched to resize state
+[OBAVESTENJE] [2025-05-11 13:45:07] Command Resize Room Element Command (id:5adba7d6) was created was created
+[OBAVESTENJE] [2025-05-11 13:45:07] Doing: Setting size of Closet (40572) to w:98.000000 h:65.000000
+[OBAVESTENJE] [2025-05-11 13:45:12] Command Resize Room Element Command (id:657acf6a) was created was created
+[OBAVESTENJE] [2025-05-11 13:45:12] Doing: Setting size of Closet (40572) to w:90.000000 h:65.000000
+[OBAVESTENJE] [2025-05-11 13:45:14] Switched to add state
+[OBAVESTENJE] [2025-05-11 13:45:22] Command AddRoomElementCommand (id:e2d6632b) was created was created
+[OBAVESTENJE] [2025-05-11 13:45:22] Doing: Adding room element 'Table (672f4)' to room 'Room 1'
+[OBAVESTENJE] [2025-05-11 13:45:22] Switched to move state
+[OBAVESTENJE] [2025-05-11 13:45:25] Switched to move state
+[OBAVESTENJE] [2025-05-11 13:45:27] Command MoveRoomElementsCompositeCommand (id:a10aa85d) was created was created
+[OBAVESTENJE] [2025-05-11 13:45:27] Doing: Running redo commands:
+Moving room element Table (672f4) by (x drag: -20.000000, y drag: -13.000000)
+
+[OBAVESTENJE] [2025-05-11 13:45:29] Switched to resize state
+[OBAVESTENJE] [2025-05-11 13:45:32] Command Resize Room Element Command (id:eb289d5d) was created was created
+[OBAVESTENJE] [2025-05-11 13:45:32] Doing: Setting size of Table (672f4) to w:60.000000 h:59.000000
+[OBAVESTENJE] [2025-05-11 13:45:35] Switched to move state
+[OBAVESTENJE] [2025-05-11 13:45:37] Command MoveRoomElementsCompositeCommand (id:edde83d5) was created was created
+[OBAVESTENJE] [2025-05-11 13:45:37] Doing: Running redo commands:
+Moving room element Table (672f4) by (x drag: -97.000000, y drag: -22.000000)
+
+[OBAVESTENJE] [2025-05-11 13:45:38] Command MoveRoomElementsCompositeCommand (id:a2058b27) was created was created
+[OBAVESTENJE] [2025-05-11 13:45:38] Doing: Running redo commands:
+Moving room element Table (672f4) by (x drag: -58.000000, y drag: -31.000000)
+
+[OBAVESTENJE] [2025-05-11 13:45:39] Command MoveRoomElementsCompositeCommand (id:d764043f) was created was created
+[OBAVESTENJE] [2025-05-11 13:45:39] Doing: Running redo commands:
+Moving room element Table (672f4) by (x drag: -68.000000, y drag: -41.000000)
+
+[OBAVESTENJE] [2025-05-11 13:45:39] Failed: Final check failed
+[OBAVESTENJE] [2025-05-11 13:45:39] Undoing: Running undo commands:
+Moving room element Table (672f4) by (x drag: -68.000000, y drag: -41.000000)
+
+[OBAVESTENJE] [2025-05-11 13:45:40] Command MoveRoomElementsCompositeCommand (id:22de312b) was created was created
+[OBAVESTENJE] [2025-05-11 13:45:40] Doing: Running redo commands:
+Moving room element Table (672f4) by (x drag: -82.000000, y drag: -11.000000)
+
+[OBAVESTENJE] [2025-05-11 13:45:41] Command MoveRoomElementsCompositeCommand (id:f344fc2a) was created was created
+[OBAVESTENJE] [2025-05-11 13:45:41] Doing: Running redo commands:
+Moving room element Table (672f4) by (x drag: -3.000000, y drag: -8.000000)
+
+[OBAVESTENJE] [2025-05-11 13:45:42] Command MoveRoomElementsCompositeCommand (id:5fec61f0) was created was created
+[OBAVESTENJE] [2025-05-11 13:45:42] Doing: Running redo commands:
+Moving room element Table (672f4) by (x drag: 0.000000, y drag: -9.000000)
+
+[OBAVESTENJE] [2025-05-11 13:45:45] Switched to resize state
+[OBAVESTENJE] [2025-05-11 13:45:52] Command Resize Room Element Command (id:f63dfdd9) was created was created
+[OBAVESTENJE] [2025-05-11 13:45:52] Doing: Setting size of Table (672f4) to w:35.000000 h:35.000000
+[OBAVESTENJE] [2025-05-11 13:45:57] Switched to move state
+[OBAVESTENJE] [2025-05-11 13:45:58] Switched to select state
+[OBAVESTENJE] [2025-05-11 13:46:03] Command Rotate Room Element Command (id:ba7ec999) was created was created
+[OBAVESTENJE] [2025-05-11 13:46:03] Doing: Rotating Closet (40572) for 90.00 degrees
+[OBAVESTENJE] [2025-05-11 13:46:03] Command Rotate Room Element Command (id:b6154da2) was created was created
+[OBAVESTENJE] [2025-05-11 13:46:03] Doing: Rotating Closet (40572) for 90.00 degrees
+[OBAVESTENJE] [2025-05-11 13:46:03] Command Rotate Room Element Command (id:87054d47) was created was created
+[OBAVESTENJE] [2025-05-11 13:46:03] Doing: Rotating Closet (40572) for 90.00 degrees
+[OBAVESTENJE] [2025-05-11 13:46:06] Switched to move state
+[OBAVESTENJE] [2025-05-11 13:46:08] Command MoveRoomElementsCompositeCommand (id:99b87688) was created was created
+[OBAVESTENJE] [2025-05-11 13:46:08] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: 2.000000, y drag: 6.000000)
+
+[OBAVESTENJE] [2025-05-11 13:46:13] Undoing: Running undo commands:
+Moving room element Closet (40572) by (x drag: 2.000000, y drag: 6.000000)
+
+[OBAVESTENJE] [2025-05-11 13:46:17] Command Rotate Room Element Command (id:4400aa2e) was created was created
+[OBAVESTENJE] [2025-05-11 13:46:17] Doing: Rotating Closet (40572) for -90.00 degrees
+[OBAVESTENJE] [2025-05-11 13:46:57] Switched to select state
+[OBAVESTENJE] [2025-05-11 13:47:01] Switched to move state
+[OBAVESTENJE] [2025-05-11 13:47:03] Command MoveRoomElementsCompositeCommand (id:d2b26322) was created was created
+[OBAVESTENJE] [2025-05-11 13:47:03] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: 1.000000, y drag: 2.000000)
+
+[OBAVESTENJE] [2025-05-11 13:47:05] Command MoveRoomElementsCompositeCommand (id:b9983a1c) was created was created
+[OBAVESTENJE] [2025-05-11 13:47:05] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: 2.000000, y drag: -3.000000)
+
+[OBAVESTENJE] [2025-05-11 13:47:06] Command MoveRoomElementsCompositeCommand (id:8f17fe00) was created was created
+[OBAVESTENJE] [2025-05-11 13:47:06] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: 11.000000, y drag: -1.000000)
+
+[OBAVESTENJE] [2025-05-11 13:47:06] Command MoveRoomElementsCompositeCommand (id:e1892d58) was created was created
+[OBAVESTENJE] [2025-05-11 13:47:06] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: 5.000000, y drag: -3.000000)
+
+[OBAVESTENJE] [2025-05-11 13:47:07] Undoing: Running undo commands:
+Moving room element Closet (40572) by (x drag: 5.000000, y drag: -3.000000)
+
+[OBAVESTENJE] [2025-05-11 13:47:08] Undoing: Running undo commands:
+Moving room element Closet (40572) by (x drag: 11.000000, y drag: -1.000000)
+
+[OBAVESTENJE] [2025-05-11 13:47:09] Undoing: Running undo commands:
+Moving room element Closet (40572) by (x drag: 2.000000, y drag: -3.000000)
+
+[OBAVESTENJE] [2025-05-11 13:47:10] Undoing: Running undo commands:
+Moving room element Closet (40572) by (x drag: 1.000000, y drag: 2.000000)
+
+[OBAVESTENJE] [2025-05-11 13:47:11] JSON loaded/saved successfully
+[OBAVESTENJE] [2025-05-11 13:47:11] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: 1.000000, y drag: 2.000000)
+
+[OBAVESTENJE] [2025-05-11 13:47:15] Command Rotate Room Element Command (id:8b4c7648) was created was created
+[OBAVESTENJE] [2025-05-11 13:47:15] Doing: Rotating Closet (40572) for 90.00 degrees
+[OBAVESTENJE] [2025-05-11 13:47:16] Command Rotate Room Element Command (id:98e9dfd7) was created was created
+[OBAVESTENJE] [2025-05-11 13:47:16] Doing: Rotating Closet (40572) for 90.00 degrees
+[OBAVESTENJE] [2025-05-11 13:47:18] Command Rotate Room Element Command (id:4d8be2ef) was created was created
+[OBAVESTENJE] [2025-05-11 13:47:18] Doing: Rotating Closet (40572) for -90.00 degrees
+[OBAVESTENJE] [2025-05-11 13:47:18] Command Rotate Room Element Command (id:b3e1deba) was created was created
+[OBAVESTENJE] [2025-05-11 13:47:18] Doing: Rotating Closet (40572) for -90.00 degrees
+[OBAVESTENJE] [2025-05-11 14:04:47] Switched to move state
+[OBAVESTENJE] [2025-05-11 14:04:48] Command MoveRoomElementsCompositeCommand (id:b03c0e46) was created was created
+[OBAVESTENJE] [2025-05-11 14:04:48] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: -50.000000, y drag: -1.000000)
+
+[OBAVESTENJE] [2025-05-11 14:04:50] Command MoveRoomElementsCompositeCommand (id:38a77981) was created was created
+[OBAVESTENJE] [2025-05-11 14:04:50] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: -35.000000, y drag: -2.000000)
+
+[OBAVESTENJE] [2025-05-11 14:04:51] Command MoveRoomElementsCompositeCommand (id:84f23c92) was created was created
+[OBAVESTENJE] [2025-05-11 14:04:51] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: -10.000000, y drag: 0.000000)
+
+[OBAVESTENJE] [2025-05-11 14:04:52] Command MoveRoomElementsCompositeCommand (id:e2878c39) was created was created
+[OBAVESTENJE] [2025-05-11 14:04:52] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: -18.000000, y drag: 1.000000)
+
+[OBAVESTENJE] [2025-05-11 14:04:54] Command MoveRoomElementsCompositeCommand (id:53658f48) was created was created
+[OBAVESTENJE] [2025-05-11 14:04:54] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: 8.000000, y drag: 0.000000)
+
+[OBAVESTENJE] [2025-05-11 14:05:06] Command MoveRoomElementsCompositeCommand (id:eb218a49) was created was created
+[OBAVESTENJE] [2025-05-11 14:05:06] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: 41.000000, y drag: 0.000000)
+
+[OBAVESTENJE] [2025-05-11 14:05:08] Undoing: Running undo commands:
+Moving room element Closet (40572) by (x drag: 41.000000, y drag: 0.000000)
+
+[OBAVESTENJE] [2025-05-11 14:05:10] Command MoveRoomElementsCompositeCommand (id:08735596) was created was created
+[OBAVESTENJE] [2025-05-11 14:05:10] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: 34.000000, y drag: 0.000000)
+
+[OBAVESTENJE] [2025-05-11 14:05:12] Command MoveRoomElementsCompositeCommand (id:557d7114) was created was created
+[OBAVESTENJE] [2025-05-11 14:05:12] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: -2.000000, y drag: 0.000000)
+
+[OBAVESTENJE] [2025-05-11 14:05:12] Command MoveRoomElementsCompositeCommand (id:217ebd61) was created was created
+[OBAVESTENJE] [2025-05-11 14:05:12] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: -4.000000, y drag: 0.000000)
+
+[OBAVESTENJE] [2025-05-11 14:05:13] Command MoveRoomElementsCompositeCommand (id:134e888f) was created was created
+[OBAVESTENJE] [2025-05-11 14:05:13] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: 1.000000, y drag: 0.000000)
+
+[OBAVESTENJE] [2025-05-11 14:06:09] Command Rotate Room Element Command (id:9d2dc89c) was created was created
+[OBAVESTENJE] [2025-05-11 14:06:09] Doing: Rotating Closet (40572) for 90.00 degrees
+[OBAVESTENJE] [2025-05-11 14:06:11] Switched to move state
+[OBAVESTENJE] [2025-05-11 14:06:12] Command Rotate Room Element Command (id:c3c5ae78) was created was created
+[OBAVESTENJE] [2025-05-11 14:06:12] Doing: Rotating Closet (40572) for 90.00 degrees
+[OBAVESTENJE] [2025-05-11 14:06:13] Command MoveRoomElementsCompositeCommand (id:f9fe37ac) was created was created
+[OBAVESTENJE] [2025-05-11 14:06:13] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: 3.000000, y drag: 13.000000)
+
+[OBAVESTENJE] [2025-05-11 14:06:14] Command MoveRoomElementsCompositeCommand (id:c843d18b) was created was created
+[OBAVESTENJE] [2025-05-11 14:06:14] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: 0.000000, y drag: 8.000000)
+
+[OBAVESTENJE] [2025-05-11 14:06:15] Command Rotate Room Element Command (id:a6fbb542) was created was created
+[OBAVESTENJE] [2025-05-11 14:06:15] Doing: Rotating Closet (40572) for 90.00 degrees
+[OBAVESTENJE] [2025-05-11 14:06:16] Command Rotate Room Element Command (id:63112d78) was created was created
+[OBAVESTENJE] [2025-05-11 14:06:16] Doing: Rotating Closet (40572) for 90.00 degrees
+[OBAVESTENJE] [2025-05-11 14:06:18] Command MoveRoomElementsCompositeCommand (id:c7dfb6a5) was created was created
+[OBAVESTENJE] [2025-05-11 14:06:18] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: 1.000000, y drag: -5.000000)
+
+[OBAVESTENJE] [2025-05-11 14:06:19] Command Rotate Room Element Command (id:02c5853a) was created was created
+[OBAVESTENJE] [2025-05-11 14:06:19] Doing: Rotating Closet (40572) for 90.00 degrees
+[OBAVESTENJE] [2025-05-11 14:06:20] Command MoveRoomElementsCompositeCommand (id:8ca4ac24) was created was created
+[OBAVESTENJE] [2025-05-11 14:06:20] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: 4.000000, y drag: -5.000000)
+
+[OBAVESTENJE] [2025-05-11 14:06:22] Command MoveRoomElementsCompositeCommand (id:782026cb) was created was created
+[OBAVESTENJE] [2025-05-11 14:06:22] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: 5.000000, y drag: 0.000000)
+
+[OBAVESTENJE] [2025-05-11 14:06:22] Command MoveRoomElementsCompositeCommand (id:031ee1d3) was created was created
+[OBAVESTENJE] [2025-05-11 14:06:22] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: 4.000000, y drag: 0.000000)
+
+[OBAVESTENJE] [2025-05-11 14:06:23] Command MoveRoomElementsCompositeCommand (id:5741e8d0) was created was created
+[OBAVESTENJE] [2025-05-11 14:06:23] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: -3.000000, y drag: 1.000000)
+
+[OBAVESTENJE] [2025-05-11 14:06:24] Command MoveRoomElementsCompositeCommand (id:751ad543) was created was created
+[OBAVESTENJE] [2025-05-11 14:06:24] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: 1.000000, y drag: -3.000000)
+
+[OBAVESTENJE] [2025-05-11 14:06:25] Command MoveRoomElementsCompositeCommand (id:c3be79df) was created was created
+[OBAVESTENJE] [2025-05-11 14:06:25] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: 0.000000, y drag: 3.000000)
+
+[OBAVESTENJE] [2025-05-11 14:06:26] Command MoveRoomElementsCompositeCommand (id:df82bcd8) was created was created
+[OBAVESTENJE] [2025-05-11 14:06:26] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: 0.000000, y drag: 2.000000)
+
+[OBAVESTENJE] [2025-05-11 14:06:27] Command MoveRoomElementsCompositeCommand (id:48863bc6) was created was created
+[OBAVESTENJE] [2025-05-11 14:06:27] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: -89.000000, y drag: -5.000000)
+
+[OBAVESTENJE] [2025-05-11 14:06:27] Failed: Final check failed
+[OBAVESTENJE] [2025-05-11 14:06:27] Undoing: Running undo commands:
+Moving room element Closet (40572) by (x drag: -89.000000, y drag: -5.000000)
+
+[OBAVESTENJE] [2025-05-11 14:06:39] Command MoveRoomElementsCompositeCommand (id:edc42dd1) was created was created
+[OBAVESTENJE] [2025-05-11 14:06:39] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: 1.000000, y drag: -3.000000)
+
+[OBAVESTENJE] [2025-05-11 14:06:43] Command MoveRoomElementsCompositeCommand (id:dadbb7cb) was created was created
+[OBAVESTENJE] [2025-05-11 14:06:43] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: 0.000000, y drag: 1.000000)
+
+[OBAVESTENJE] [2025-05-11 14:06:44] Command MoveRoomElementsCompositeCommand (id:66f89db4) was created was created
+[OBAVESTENJE] [2025-05-11 14:06:44] Doing: Running redo commands:
+Moving room element Closet (40572) by (x drag: 0.000000, y drag: -1.000000)
+
+[OBAVESTENJE] [2025-05-11 14:11:27] JSON loaded/saved successfully

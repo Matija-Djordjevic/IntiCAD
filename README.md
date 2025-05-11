@@ -4,16 +4,24 @@
 
 
 # IntiCAD
-**A Java/Swing 2D CAD application for interior design, allowing you to design and arrange floorplans and furniture with intuitive tools, real-time collision detection, undo/redo functionality, JSON-based persistence, and multilingual support.**
+**A simple 2D room-planning tool for arranging furniture layouts**
+
+![Room layout screenshot](src/main/resources/assignment/screenshot1.png)
 
 <details>
 <summary>Architecture</summary>
 
-This project provided hands-on experience implementing core OOP design patterns and SOLID principles within an MVC architecture, while practicing team collaboration, GitHub-based source control and meeting tight deadlines.
+This project gave me hands-on experience implementing core OOP design patterns and SOLID principles in an MVC architecture, while collaborating with a team, using GitHub for source control, and meeting tight deadlines.
 
-### Full Requirements (in Serbian) 
-``` 
-src\main\resources\assigment 
+## Faculty baseline requirements (in Serbian)
+
 ```
+src\main\resources\assignment\requirements
+```
+## UML example
+
+This UML diagram highlights a clear separation of concerns between the UI and the core application, with the `ProjectManager` serving as the bridge between them.
+
+![UML architecture diagram](src/main/resources/assignment/uml1.png)
 
 </details>
