@@ -11,8 +11,6 @@
 <details>
 <summary>Architecture</summary>
 
-This project gave me hands-on experience implementing core OOP design patterns and SOLID principles in an MVC architecture, while collaborating with a team, using GitHub for source control, and meeting tight deadlines.
-
 ## Faculty baseline requirements (in Serbian)
 
 ```
